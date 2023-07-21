@@ -90,6 +90,13 @@ Sendo que:
  - **point**: um `dict` com a latitude e longitude da **entrega**;
  - **size**: um `int` com o tamanho ou a carga que a **entrega** ocupa no **veículo**.
 
-
-
->>>>>>> 07e80b3515c0cd62bbeb60f6c077d776b45d5207
+**Código de importação de bibliotecas**
+- import json
+- import pandas as pd
+- import seaborn as sns
+- import matplotlib.pyplot as plt
+- import numpy as np
+- import geopandas
+- import geopy
+- from geopy.geocoders import Nominatim
+- from geopy.extra.rate_limiter import RateLimiter
