@@ -98,3 +98,7 @@ Sendo que:
 - import geopy
 - from geopy.geocoders import Nominatim
 - from geopy.extra.rate_limiter import RateLimiter
+
+# AUTOR
+
+[<img loading="height:auto" src="https://avatars.githubusercontent.com/u/134460985?v=4" width=115><br><sub>Luis Fernando </sub>](https://github.com/luisfernandogbraga) 
